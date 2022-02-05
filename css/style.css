@@ -13,7 +13,7 @@ body {
 }
 p {
 	font-family: Bitter, Arial, Helvetica, sans-serif;
-	font-size: 18;
+	font-size: 18px;
 }
 .text {
 	color: dimgrey;
@@ -30,7 +30,7 @@ p {
 #title1 {
 	text-align: center;
 	color: fuchsia;
-	font-size: 60;
+	font-size: 60px;
 	line-height: 2.5;
 }
 .span {
@@ -55,15 +55,7 @@ p {
 	line-height: 1.5;
 	color: #1e212c;
 }
-.paragraph1 {
-	font-family: Lato, Arial, Helvetica, sans-serif;
-	font-weight: 700;
-	font-style: normal;
-	font-size: 20px;
-	line-height: 1.5;
-	color: #1e212c;
-	text-indent: 2%;
-}
+
 .text2 {
 	font-family: Lato, Arial, Helvetica, sans-serif;
 	font-weight: 400;
